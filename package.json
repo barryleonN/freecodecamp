@@ -17,6 +17,6 @@
 		"freecodecamp"
 	],
 	"license": "MIT"
-	npm i helmet@3.21.3
+	npm install --save-exact helmet@3.21.3
 }
 
