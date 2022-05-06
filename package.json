@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"express": "^4.14.0"
-	        "helmet": "3.21.3"
+	        
 	},
 	"keywords": [
 		"node",
@@ -17,6 +17,6 @@
 		"freecodecamp"
 	],
 	"license": "MIT"
-	npm install --save-exact helmet@3.21.3
+	
 }
 
